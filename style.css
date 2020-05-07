@@ -1,0 +1,465 @@
+a
+
+.two{
+    max-width: 1180px !important;
+    min-width: 400px !important;
+    margin: 0 auto !important;
+
+}
+ .header{
+    background-color: #316dc3 !important;
+    max-height: 50px !important;
+    max-height: 200px !important;
+
+    
+} 
+img{
+    padding-bottom: 10px;
+    padding-top: 12px !important;
+    padding-left: 5px !important;
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    display: inline-block !important; 
+}
+button{
+    border: none !important;
+    display: inline-block !important;
+    margin-top: auto !important;
+    
+}
+#fbe{
+    padding-left: 20px !important;
+    width: 3.5%;
+}
+
+#twitter{
+    
+    width: 2.5%;
+}
+
+#insta{
+    width: 1.8%;
+}
+#yout{
+    width: 2%;
+}
+#whatsapp{
+    width: 2%;
+}
+#mil{
+    margin-left: 140px !important;
+    padding-top: 10px;
+    color: honeydew;
+}
+#uk{
+    margin-left: 10px !important;
+}
+
+#uk,#dd,#sm{
+    width: 90px;
+    font-size: x-small;
+}
+li{
+    display: inline-block !important;
+    margin-left: 10px !important;
+    font-size: 20px !important;
+    padding: 10px !important;
+    cursor: pointer !important;
+}
+li:hover{
+    background-color: royalblue !important;
+    border-radius: 5px !important;
+}
+.second{
+    min-height: 70px;
+    max-height: 300px;
+    background-color:#fcfcfc;
+}
+
+#logo{
+    
+    width: 17%;
+    display: inline-block;
+    margin-right: 240px;
+
+}
+
+#navb{
+    display: flex;
+    flex-wrap: wrap;
+    border: none;
+    color: black;
+    font-weight: bold;
+}
+
+#navb:hover{
+    color: white;
+    border-radius: 40px !important;
+}
+.carousel-inner{
+    
+    min-height: 170px;
+    max-height: 480px;
+    width: 100%;
+}
+#p1{
+    width: 80%;
+}
+
+#green{
+    color: chartreuse !important;
+}
+
+.news{
+    background-color: royalblue ;
+    text-align: center  ;
+    margin-top: 15px;
+    color: seashell;
+    
+}
+
+.section{
+    background-color: #eeeff2;
+    margin-top: 10px;
+}
+
+#duc{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+}
+#intro{
+    color: royalblue;
+    
+}
+h2{
+    letter-spacing: -1px;
+    word-spacing: -9px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-left: 40px;
+
+}
+
+.icon{
+    margin: 0 auto;
+    
+    
+    
+}
+#icon{
+    width: 3%;
+    
+}
+#mar{
+    margin-left: 45%;
+    color: green;
+    font-weight: bold;
+}
+#mtr{
+    color: green;
+    font-weight: bold;
+}
+.para{
+    text-align: justify;
+    font-size: 15px;
+    max-width: 900px !important;
+    min-width: 100px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    color: rgba(0, 0, 0, 0.548);
+}
+.carousel-indicators{
+    max-height: 20px;
+    min-height: 1px;
+}
+
+.sectiontwo{
+    background-color: rgba(0, 0, 255, 0.774);
+    display: flex;
+    flex-wrap: wrap;
+}
+#kit{
+    width: 40px;
+    
+}
+.num1,.p1{
+    color: white;
+    font-weight: bold;
+}
+.con1{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.inline1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-top: 50px;
+    margin-top: 50px;
+    padding-bottom: 50px;
+
+}
+.p11{
+    color: rgb(2, 250, 2);
+}
+.p1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+}
+.num1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+.i4{
+    margin-left: 125px;
+}
+.i1{
+    margin-left: 120px;
+}
+.i2{
+    margin-left: 75px;
+}
+.i3{
+    margin-left: 85px;
+}
+
+.what{
+        padding-top: 30px;
+}
+.bu{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: ;
+    color: rgba(0, 0, 255, 0.568);
+    font-size: 35px;
+}
+.gr{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: ;
+    color: rgba(0, 128, 0, 0.795);
+}
+
+.section3{
+    background-color: rgba(253, 247, 247, 0.74);
+    padding-bottom: 50px;
+}
+.shadow{
+    width: 360px;
+    
+}
+.shadowbox{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 70px;
+}
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+    color: rgba(57, 57, 253, 0.726);
+}
+#one{
+    margin-left: 110px;
+}
+.work{
+    display: flex;
+    direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+
+.upcoming{
+    width: 750px;
+    float: right;
+}
+
+h3{
+    margin-top: 65px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(55, 55, 241, 0.911);
+    font-weight: bold;
+    margin-bottom: 34px;
+}
+
+.hepa{
+    background-color: rgba(240, 235, 235, 0.884) !important;
+    width: 330px;
+    height: 60px  ;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 5;
+    border: 1px solid rgba(114, 112, 112, 0.521);
+}
+.item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 14px;
+    padding-left: 27px;
+    color: rgba(71, 71, 241, 0.836);
+
+}
+.section4{
+    background-color: white;
+}
+
+
+.item{
+    display: flex;
+    flex-direction: row;
+}
+
+.newsupdate{
+    width: 360px;
+    scroll-padding-inline-end: scrol;
+}
+
+.news1{
+    border: none;
+}
+.event{
+    margin-top: 48px;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left !important;
+    
+}
+.bal{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+.gallery{
+    background-color: white;
+    
+}
+
+.pic{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#gallery1{
+    
+    width: 20% !important;
+    margin-bottom: 140px;
+}
+
+.footer{
+    background-color: #25272e;
+}
+
+.inl{
+    display: flex;
+    flex-direction: row;
+}
+#inl{
+    width: 5%;
+    font-size: 11px !important;
+}   
+
+.pp{
+    color: white;
+
+}
+
+#eart{
+    width: 6.8%;
+    
+    margin-right:5px ;
+    margin-bottom: 5px;
+}
+#tele{
+    width: 7%;
+    
+    margin-right:3px ;
+    margin-bottom: 5px;
+}
+#email{
+    width: 7%;
+    margin-right:3px ;
+    margin-bottom: 5px;
+}
+.nav{
+ color: rgba(206, 204, 204, 0.945);
+ line-height: 145%;
+ font-size: 13px;
+ padding-top: 96px;
+}
+.detail{
+    width: 350px;
+}
+
+.foot{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.use{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-top: 70px;
+    border-bottom: 1px solid grey;
+    border-spacing: 2px;
+    font-size: 18px;
+}
+.useful{
+    width: 360px;
+
+}
+.social{
+    width: 260px;
+
+}
+
+.connect{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#youtube{
+    width: 18%;
+}
+#inst{
+    width: 18%;
+}
+#twit{
+    width: 18%;
+}
+#fb{
+    width: 18%;
+}
+.copyright{
+    background-color: rgba(0, 0, 255, 0.637);
+    display: flex;
+    align-items: center;
+}
+.copy{
+    color: white;
+    font-family: monospace;
+    font-size: 14px;
+    padding-top: 10px;
+}
